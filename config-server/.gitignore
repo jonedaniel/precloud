@@ -1,5 +1,5 @@
 target/
-.mvn/wrapper
+*.mvn/wrapper/maven-wrapper.jar
 mvnw
 mvnw.cmd
 ### STS ###
